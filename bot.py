@@ -9,7 +9,7 @@ MIN_WITHDRAW = 1
 
 CHANNEL_USERNAME = "@campignloots"
 CHANNEL_ID = -1002807227544
-VERIFY_URL = "http://YOUR_SERVER_IP:5000/verify"
+VERIFY_URL = "https://telegram-verify-bot-production-3063.up.railway.app/verify"
 
 user_state = {}
 
